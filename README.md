@@ -14,7 +14,7 @@ We calculate NPS as #NPS=%#promoters-%#detractors.This implies that NPS can be n
 With NPS, companies can initiate strategies of how to retain promoters, win confidence of the passives. If the percentage of detractors is too high,
 companies can strategise on how to best target the detractor market.
 
-Further statistics could be performed with NPS, like crosstabulation of NPS by demographic variables such as gender, location, etc. Modeeling the drivers of NPS could still be performed using logistic regression.
+Further statistics could be performed with NPS, like crosstabulation of NPS by demographic variables such as gender, location, etc. Modelling the drivers of NPS could still be performed using logistic regression.
 
 In my example, I have generated NPS of three companies i.e. A, B, C. The data used was generated through simulateing responses of 
 387 cases. 
