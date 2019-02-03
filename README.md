@@ -10,7 +10,7 @@ During analysis you ger:
 - #Passives, i.e. give responses (7-8).They are fence sitters who are not sure on whether to recommend
 - #Promoters, i.e. give responses (9-10). They wont hesitate in giving a recommendation.
 
-We calculate NPS as #NPS=%#promoters-%#detractors.This implies that NPS can be negative- when there are more detractors than promoters.
+We calculate NPS as #NPS=%promoters-%detractors.This implies that NPS can be negative- when there are more detractors than promoters.
 
 With NPS, companies can initiate strategies of how to retain promoters, win confidence of the passives. If the percentage of detractors is too high,
 companies can strategise on how to best target the detractor market.
