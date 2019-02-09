@@ -1,7 +1,8 @@
 # Net Promoter Score with Python
 
-Net Promoter Score (NPS) is an indicator that measures customers' loyalty. 
-The higher the score, the greater the loyalty customers have towards a company, brand, service etc.
+Net Promoter Score (NPS) is an indicator that measures customers' loyalty. It can be used alongsided other customer measurement indicators such as customer satisfaction index and brand health index.
+
+The higher the NPS score, the greater the loyalty customers have towards a company, brand, service etc.
 
 To come up with the score, one need to ask one question. The question is mostly framed as "On a scale of 0 to 10, how likely are you to recommend [name of business] to a friend?”
 
